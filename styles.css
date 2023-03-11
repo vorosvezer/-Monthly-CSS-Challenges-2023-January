@@ -22,13 +22,12 @@ body {
   } 
 
   footer {
-    /* width: 100vw; */
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background: black;
-    padding: 16px 0;
+    padding: 16px 5px;
 
     color: gold;
     width: 100vw;
