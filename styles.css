@@ -10,8 +10,8 @@ body {
     height: 100vh;
     width: 100vw;
  
-
-    background-color: gold;
+    color: #F7C8E0;
+    background-color: #060047;
 
    
     margin-bottom: 50%;
@@ -29,7 +29,7 @@ body {
     background: black;
     padding: 16px 5px;
 
-    color: gold;
+    color: #F7C8E0;
     width: 100vw;
     height: 100vw;
   position: fixed;
