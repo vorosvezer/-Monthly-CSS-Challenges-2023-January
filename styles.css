@@ -43,14 +43,14 @@ body {
     color: goldenrod;
   }
 
-  @media (min-width: 768px) {
+  /* @media (min-width: 768px) {
     footer {
         justify-items: space-between; 
         flex-direction: row;
           gap: 4px;
     }
-  }
+  } */
 
   :root {
-    --footer-height: 192px; 
+    --footer-height: 16,25rem; 
    }
