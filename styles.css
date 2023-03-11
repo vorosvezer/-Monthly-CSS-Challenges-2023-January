@@ -35,7 +35,7 @@ body {
     height: 21%;
   position: fixed;
   bottom: 0;
-  z-index: 0
+  z-index: 0;
   height: var(--footer-height);
   width: 100vw;
   }
